@@ -1,7 +1,7 @@
 - ❤️ So, I’m @EmiJJJ
 - 👑 And my interest solely lies in data analysis and Market Research. 
 - 🖥 At the moment, I am currently learning Data Science. 
-- ⌨️ And I’m looking to collaborate on cloud computing.
+- ⌨️ Cloud Computing. 
 
 <!---
 EmiJJJ/EmiJJJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
