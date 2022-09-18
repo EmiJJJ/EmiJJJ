@@ -1,6 +1,6 @@
 - ❤️ So, I’m @EmiJJJ
 - 👑 And my interest solely lies in data analysis and Market Research. 
-- 🖥 At the moment, I currently learning Data Science. 
+- 🖥 At the moment, I am currently learning Data Science. 
 - ⌨️ And I’m looking to collaborate on cloud computing.
 
 <!---
